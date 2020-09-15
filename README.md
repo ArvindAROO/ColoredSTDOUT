@@ -13,4 +13,5 @@ This script will print the file in RGB colored format.
 * Run the program using the command `python colors.py temp.txt`
 NOTE: Change the second parameter to whichever file you want to print in RGB format
 
-Example
+#Example
+![function](https://github.com/ArvindAROO/ColoredSTDOUT/blob/master/Screenshot.jpg)
